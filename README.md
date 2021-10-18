@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KDikgale
-- 👀 I’m interested in machine and deep learning, coding and sloving complex problems.
+- 👀 I’m interested in machine and deep learning, coding and solving complex problems.
 - 🌱 I’m currently learning Java, Python and Power BI.
 - 💞️ I’m looking to collaborate on exciting projects which will asist with building my portfolio as an aspiring data scientist.
 - 📫 How to reach me ... 
